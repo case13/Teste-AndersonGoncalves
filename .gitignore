@@ -1,0 +1,6 @@
+*_recovery*
+*_history*
+/Win32
+/*.local
+/*.identcache
+/*.res
